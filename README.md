@@ -6,7 +6,9 @@ Hi everyone, as I know some people have been made aware of, I have been looking 
 ## Strike 1: Going against checkra1n team's wishes
 
 So, let's start off by going through what checkra1n team wanted:
+
 > Siguza (4/12/2022, 7:12 PM CST): but I did ask for the "checkra1n" name to not be used, to make it clear that this is a 3rd party thing
+
 Very reasonable, correct? Obviously, yes, you wouldn't want a third-party project to be directly associated to the real thing.
 
 So what do these individuals decide to do? Change (mostly) everything internally about checkra1n... but not change a single exterior thing, by this, I mean:
@@ -15,6 +17,7 @@ So what do these individuals decide to do? Change (mostly) everything internally
 - The UI is basically an equivalent clone of the UI used in the official versions of checkra1n
 
 When asked about this, the developer behind this tool said:
+
 > (I am not sharing this devs name) (4/16/2022, 4:56 AM CST): Exe can be renamed not problem, but inside the app there isn’t the name. And no he didn’t ask to not use the icon.
 
 You would think, however, that "making it clear that this is a 3rd party thing" would mean more than just change a couple names in-app, right (even if not directly brought up)?
