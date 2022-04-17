@@ -43,7 +43,7 @@ The dev of this utility proceeded to (after the image spread around a fair bit) 
 
 The dev says this is because (responses attached):
 - Code Signing Certificate not being present - This is, for the most part, false. This is because that, while yes, some tools will whine about this, this does not cause 'false' Trojan and Backdoor detections.
-- As a result of the obfuscation - This is technically true, but I also wouldn't consider it a smoking gun that "oh my god this isn't a malicious program at all" - We have reason to believe that all of them at least have the potential of being tied to obfuscation in some manner... except for Trojan:Win32/Tilevn.A (and even then, the others shouldn't be entirely ruled out, as inherently they were marked as threats because they were tied to actual malicious programs, right?)
+- As a result of the obfuscation - This is technically true, but I also wouldn't consider it a smoking gun that "oh my god this isn't a malicious program at all" - We have reason to believe that all of them at least have the potential of being tied to obfuscation in some manner... **except for Trojan:Win32/Tilevn.A** (and even then, the others shouldn't be entirely ruled out, as inherently they were marked as threats because they were tied to actual malicious programs, right?)
 
 ## Strike 3: Administrator Privileges stupidity
 
