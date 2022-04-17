@@ -1,4 +1,5 @@
-# Windows checkra1n potential malware write-up (codename: malra1n)
+# Windows checkra1n potential malware write-up
+(Dubbed Malra1n because eh nice name and continually calling it Windows checkra1n is lazy, right?)
 
 Hi everyone, as I know some people have been made aware of, I have been looking into the Windows checkra1n garbage over the past day or so. What I am sharing today is a whole look at what I have found over the past day or so.
 
