@@ -37,7 +37,7 @@ So I decided to take a look, and while I listed some of them in the original dis
 - Backdoor:Win32/Bladabindi!ml
 > This program provides remote access to the computer it is installed on.
 
-To not repeat what I said in my original message that (because imo that would take way too long), there are a bunch of reasons why not only is this incredibly strange, but it seems incredibly unlikely that these could just be "Windows being Windows" things.
+To not repeat what I said in my original message [(which you can find here, note that you need Discord and access to the r/jailbreak discord)](https://discord.com/channels/349243932447604736/688122301975363591/964804251920523284) that (because imo that would take way too long), there are a bunch of reasons why not only is this incredibly strange, but it seems incredibly unlikely that these could just be "Windows being Windows" things.
 
 The dev of this utility proceeded to (after the image spread around a fair bit) bring up why they claim it is being detected by various utilities (Just to note before continuing, VirusTotal finds checkra1n.exe has something in 17/69 cases and finds the entire zip of contents has something in 33/69 cases)
 
